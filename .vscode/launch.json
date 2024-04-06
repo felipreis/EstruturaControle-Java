@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EstruturasExcepcionais",
+            "request": "launch",
+            "mainClass": "EstruturasExcepcionais",
+            "projectName": "EstruturaCondicionais_78f7600"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
